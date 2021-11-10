@@ -28,3 +28,5 @@ notes from branding class
 
 want new name, brand guidelines (style guide for brand)
 come up with a new smart goal every month to keep moving forward
+what are you gonna do this week to move forward:
+- write down at least 5 potential names and come up with reasons why they will or will not work, (pro-con list)
