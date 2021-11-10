@@ -12,3 +12,4 @@ notes from branding class
 
 - how do people currently view your business?
 - how do you want them to view it?
+- social media/websites is a sales channel
