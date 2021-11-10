@@ -14,3 +14,7 @@ notes from branding class
 - how do you want them to view it?
 - social media/websites is a sales channel
 - reliable is main hope, call and get help
+
+- brand values -> come up with 3 words to describe company, reliable
+- brand identity -> how to communicate values
+- brand integration -> how do values affect website view
