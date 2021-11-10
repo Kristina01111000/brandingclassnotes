@@ -18,3 +18,12 @@ notes from branding class
 - brand values -> come up with 3 words to describe company, reliable
 - brand identity -> how to communicate values
 - brand integration -> how do values affect website view
+
+- smart goals:
+   - specific
+   - measurable
+   - attainable
+   - realistic
+   - time-bound
+
+want new name, brand guidelines (style guide for brand)
