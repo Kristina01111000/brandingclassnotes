@@ -27,3 +27,4 @@ notes from branding class
    - time-bound
 
 want new name, brand guidelines (style guide for brand)
+come up with a new smart goal every month to keep moving forward
