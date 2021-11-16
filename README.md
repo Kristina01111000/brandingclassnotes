@@ -32,9 +32,11 @@ what are you gonna do this week to move forward:
 - write down at least 5 potential names and come up with reasons why they will or will not work, (pro-con list)
 5 names 
 
-: ____ web development
-quick? fast, easy
-Kwick ?
-K web Develpoment
+: ____ Web Development
+- quick Web Development -> 
+- Kwick Web Development -> nope, want older clients to know i can spell
+- K Web Development
+- kn web dev
+- Kristina's Web Development
 
 want a descriptive but not boring name
