@@ -33,13 +33,15 @@ what are you gonna do this week to move forward:
 5 names 
 
 : ____ Web Development
-- quick Web Development -> descriptive, doesn's seem to fit
-- Kwick Web Development -> nope, want older clients to know i can spell
-- K Web Development -> too much like ok?
-- kn web dev -> not descriptive enough
-- Kristina's Web Development -> I like it, is having a first name in the company name an issue?
-- Nelson Web Development -> maybe?
-- Nelson Web Dev -> will non developers understand it
-how much do initials count?
-is having a name in it a bad thing
+- quick Web Development -> descriptive, doesn's seem to fit -> QWD
+- Kwick Web Development -> nope, want older clients to know i can spell -> KWD
+- K Web Development -> too much like ok? -> KWD
+- kn web dev -> not descriptive enough -> KWD
+- Kristina's Web Development -> I like it, is having a first name in the company name an issue? -> KWD
+- Nelson Web Development -> maybe? -> NWD
+- Nelson Web Dev -> will non developers understand it -> NWD
+
+
+how much do initials of name count?
+is having my name in it a bad thing
 want a descriptive but not boring name
