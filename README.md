@@ -33,11 +33,11 @@ what are you gonna do this week to move forward:
 5 names 
 
 : ____ Web Development
-- quick Web Development -> 
+- quick Web Development -> descriptive, doesn's seem to fit
 - Kwick Web Development -> nope, want older clients to know i can spell
 - K Web Development -> too much like ok?
-- kn web dev 
-- Kristina's Web Development
+- kn web dev -> not descriptive enough
+- Kristina's Web Development -> I like it, is having a first name in the company name an issue?
 
 how much do initials count?
 want a descriptive but not boring name
