@@ -41,6 +41,7 @@ what are you gonna do this week to move forward:
 - Nelson Web Development -> maybe? -> NWD
 - Nelson Web Dev -> will non developers understand it -> NWD
 
+Don't want it to sound old, but want it to be easy to remember
 
 how much do initials of name count?
 is having my name in it a bad thing
