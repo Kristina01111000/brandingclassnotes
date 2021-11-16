@@ -38,6 +38,8 @@ what are you gonna do this week to move forward:
 - K Web Development -> too much like ok?
 - kn web dev -> not descriptive enough
 - Kristina's Web Development -> I like it, is having a first name in the company name an issue?
-
+- Nelson Web Development -> maybe?
+- Nelson Web Dev -> will non developers understand it
 how much do initials count?
+is having a name in it a bad thing
 want a descriptive but not boring name
