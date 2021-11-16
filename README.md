@@ -35,8 +35,9 @@ what are you gonna do this week to move forward:
 : ____ Web Development
 - quick Web Development -> 
 - Kwick Web Development -> nope, want older clients to know i can spell
-- K Web Development
-- kn web dev
+- K Web Development -> too much like ok?
+- kn web dev 
 - Kristina's Web Development
 
+how much do initials count?
 want a descriptive but not boring name
