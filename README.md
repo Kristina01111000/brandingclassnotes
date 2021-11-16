@@ -33,7 +33,8 @@ what are you gonna do this week to move forward:
 5 names 
 
 : ____ web development
-quick?
-fast, easy
+quick? fast, easy
+Kwick ?
+K web Develpoment
 
-want descriptive, but not boring name
+want a descriptive but not boring name
