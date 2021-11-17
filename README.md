@@ -72,3 +72,7 @@ how to translate core values?
  - respond to questions from clients quickly (within 24 hours)
  - make it easy for them understand
  
+for next week:
+- settle on name 
+- start brand identity kit for site/ brand style            
+- get a sample site up, not the final site
