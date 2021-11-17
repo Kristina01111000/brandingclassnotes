@@ -55,6 +55,7 @@ foundation of brand identity
 - vision
 - values
 everlane.com/about = what does it tell you about their branding
+   - clean, simple, not fun, transparency
 make sure you can deliver on the promises your branding makes
 
 brand  values: 
@@ -66,3 +67,8 @@ how to translate core values?
 - tone of voice in writing
 - content / conversations - response to comments, 
 - policies & programs
+
+ how does my brand come to life?
+ - respond to questions from clients quickly (within 24 hours)
+ - make it easy for them understand
+ 
