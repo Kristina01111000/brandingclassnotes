@@ -46,3 +46,12 @@ Don't want it to sound old, but want it to be easy to remember
 how much do initials of name count?
 is having my name in it a bad thing
 want a descriptive but not boring name
+---------------------------------------
+Brand Identity is the promise you are making your clients
+joolies.com = a really fun branding for dates, cute and professional
+
+foundation of brand identity
+- purpose/ mission
+- vision
+- values
+everland.com/about 
