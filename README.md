@@ -54,4 +54,10 @@ foundation of brand identity
 - purpose/ mission
 - vision
 - values
-everland.com/about 
+everlane.com/about = what does it tell you about their branding
+make sure you can deliver on the promises your branding makes
+
+brand  values: 
+reliability
+ease of use -> want making a site for them to be as easy as it can be for them
+
