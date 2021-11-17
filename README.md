@@ -61,3 +61,8 @@ brand  values:
 reliability
 ease of use -> want making a site for them to be as easy as it can be for them
 
+how to translate core values?
+- visual design language - colors, font, images, etc
+- tone of voice in writing
+- content / conversations - response to comments, 
+- policies & programs
