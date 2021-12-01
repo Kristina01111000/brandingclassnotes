@@ -91,3 +91,9 @@ for next week:
 - start brand identity kit for site/ brand style            
 - get a sample site up, not the final site
  - think about how they interact with your brand in micro interactions
+ - 
+- bring one thing to get feedback on
+- (edit personal site to look like brand site if name isn't done)
+- bring a challenge about brand 
+
+for site color scheme, fonts, tone of voice for brand kit
