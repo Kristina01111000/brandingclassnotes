@@ -73,6 +73,6 @@ how to translate core values?
  - make it easy for them understand
  
 for next week:
-- settle on name 
+- settle on name !!important!!
 - start brand identity kit for site/ brand style            
 - get a sample site up, not the final site
