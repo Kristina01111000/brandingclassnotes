@@ -85,7 +85,9 @@ how to translate core values?
  - or use an attachment google doc so they can work on it like a worksheet
  
  
+
 for next week:
 - settle on name !!important!!
 - start brand identity kit for site/ brand style            
 - get a sample site up, not the final site
+ - think about how they interact with your brand in micro interactions
