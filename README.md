@@ -77,9 +77,12 @@ how to translate core values?
  identify the things you can do but shouldn't
  identify the things you can't do
  
- 
- 
- 
+ integrating brand identity into customer touchpoints
+ - website, social media, email, calls, zoom
+ - tone in emails (casual vs. formal)
+ - bullet points (get to the point)
+ - use a project management tool (asana) use email to communicate it was updated
+ - or use an attachment google doc so they can work on it like a worksheet
  
  
 for next week:
