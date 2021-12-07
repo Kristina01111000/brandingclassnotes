@@ -98,5 +98,7 @@ for next week:
 
 for site color scheme, fonts, tone of voice for brand kit
  probably light blue and medium green, 
- and a cream
- font for heading: adamina
+ and a cream?
+ 
+~font for heading: adamina
+~font for other text: quattrocento
