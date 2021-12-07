@@ -97,5 +97,6 @@ for next week:
 - bring a challenge about brand 
 
 for site color scheme, fonts, tone of voice for brand kit
- probably light blue or dark green, 
+ probably light blue and medium green, 
  and a cream
+ font for heading: adamina
