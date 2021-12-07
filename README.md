@@ -102,5 +102,5 @@ for site color scheme, fonts, tone of voice for brand kit
  
 ~ font for heading: adamina
 ~ font for other text: quattrocento
-~ The primary color will be #00ff7f
-~ The secondary color will be #65c8f2
+~ The primary color (ther than white) will be #00ff7f (a medium mint green)
+~ The secondary color will be #65c8f2 (light blue)
