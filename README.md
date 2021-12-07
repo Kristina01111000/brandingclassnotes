@@ -104,3 +104,4 @@ for site color scheme, fonts, tone of voice for brand kit
 ~ font for other text: quattrocento
 ~ The primary color (ther than white) will be #00ff7f (a medium mint green)
 ~ The secondary color will be #65c8f2 (light blue)
+~ tone of voice: friendly, but not time wasting
