@@ -106,3 +106,6 @@ for site color scheme, fonts, tone of voice for brand kit
 ~ The primary color (other than white) will be #00ff7f (a medium mint green)
 ~ The secondary color will be #65c8f2 (light blue)(don't want to make people feel overwhelmed by multiple colors, make the flow of the page better with a few colors)
 ~ tone of voice: friendly, but not time wasting
+
+
+divi builder for sites sometimes
