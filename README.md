@@ -110,4 +110,4 @@ for site color scheme, fonts, tone of voice for brand kit
 
 divi builder for sites sometimes
 
-- finish the assessment of the course
+- finish the assessment of the course - > sent
