@@ -111,3 +111,4 @@ for site color scheme, fonts, tone of voice for brand kit
 divi builder for sites sometimes
 
 - finish the assessment of the course - > sent
+- when the name is done, email it to kim so she knows I got it
